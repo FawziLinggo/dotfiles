@@ -1,0 +1,21 @@
+2022/03/21-15:24:44.163 41085 Reusing MANIFEST /home/ozi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/21-15:24:44.164 41085 Recovering log #23
+2022/03/21-15:24:44.170 41085 Reusing old log /home/ozi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000023.log 
+2022/03/21-15:24:44.879 41085 Compacting 1@1 + 1@2 files
+2022/03/21-15:24:44.886 41085 Generated table #26@1: 331 keys, 50206 bytes
+2022/03/21-15:24:44.886 41085 Compacted 1@1 + 1@2 files => 50206 bytes
+2022/03/21-15:24:44.887 41085 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/21-15:24:44.888 41085 Delete type=2 #21
+2022/03/21-15:24:44.888 41085 Delete type=2 #24
+2022/03/21-15:25:23.777 445ae Level-0 table #28: started
+2022/03/21-15:25:23.784 445ae Level-0 table #28: 61280 bytes OK
+2022/03/21-15:25:23.788 445ae Delete type=0 #23
+2022/03/21-15:25:23.789 445ae Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/03/21-15:25:23.789 445ae Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x01\x1f\x033\xc3\x7fN\x1doxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 24062 : 0
+2022/03/21-15:25:23.789 445ae Compacting 1@1 + 1@2 files
+2022/03/21-15:25:23.798 445ae Generated table #29@1: 309 keys, 34229 bytes
+2022/03/21-15:25:23.798 445ae Compacted 1@1 + 1@2 files => 34229 bytes
+2022/03/21-15:25:23.801 445ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/21-15:25:23.802 445ae Delete type=2 #26
+2022/03/21-15:25:23.802 445ae Delete type=2 #28
+2022/03/21-15:25:23.803 445ae Manual compaction at level-1 from '\x00\x0e\x01\x1f\x033\xc3\x7fN\x1doxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 24062 : 0 .. (end); will stop at (end)

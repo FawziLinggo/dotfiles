@@ -1,0 +1,48 @@
+00:00:00.005253 main     VirtualBox XPCOM Server 6.1.32 r149290 linux.amd64 (Feb 10 2022 14:02:19) release log
+00:00:00.005256 main     Log opened 2022-03-20T09:13:22.419884000Z
+00:00:00.005256 main     Build Type: release
+00:00:00.005258 main     OS Product: Linux
+00:00:00.005259 main     OS Release: 5.16.15-arch1-1
+00:00:00.005260 main     OS Version: #1 SMP PREEMPT Thu, 17 Mar 2022 00:30:09 +0000
+00:00:00.005287 main     DMI Product Name: 20F5S4BX1C
+00:00:00.005294 main     DMI Product Version: ThinkPad X260
+00:00:00.005297 main     Firmware type: UEFI
+00:00:00.005784 main     Secure Boot: Disabled
+00:00:00.005818 main     Host RAM: 7805MB (7.6GB) total, 7578MB (7.4GB) available
+00:00:00.005821 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.005821 main     Process ID: 1436
+00:00:00.005822 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.007315 main     IPC socket path: /tmp/.vbox-ozi-ipc/ipcd
+00:00:00.121764 nspr-2   VirtualBox: object creation starts
+00:00:00.122112 nspr-2   Home directory: '/home/ozi/.config/VirtualBox'
+00:00:00.123542 nspr-2   Loading settings file "/home/ozi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.140464 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.156271 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/volume-root) --> volume-root
+00:00:00.193351 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp4s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.195075 nspr-2   HostDnsMonitor: initializing
+00:00:00.195721 nspr-2   NAT: resolv.conf: nameserver 180.250.245.158
+00:00:00.195746 nspr-2   NAT: resolv.conf: nameserver 180.250.245.154
+00:00:00.195765 nspr-2   HostDnsMonitor: updating information
+00:00:00.195795 nspr-2   HostDnsMonitor: old information
+00:00:00.195801 nspr-2     no server entries
+00:00:00.195808 nspr-2     no domain set
+00:00:00.195813 nspr-2     no search string entries
+00:00:00.195819 nspr-2   HostDnsMonitor: new information
+00:00:00.195825 nspr-2     server 1: 180.250.245.158
+00:00:00.195832 nspr-2     server 2: 180.250.245.154
+00:00:00.195838 nspr-2     domain: arch.machine
+00:00:00.195843 nspr-2     search string 1: arch.machine
+00:00:00.208935 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.226137 nspr-2   Loading settings file "/home/ozi/VirtualBox VMs/ubuntu/ubuntu.vbox" with version "1.16-linux"
+00:00:00.228194 nspr-2   VirtualBox: object created
+00:00:13.535531 nspr-4   Saving settings file "/home/ozi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.542168 nspr-3   Saving settings file "/home/ozi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.554541 nspr-2   Saving settings file "/home/ozi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.559837 nspr-4   Saving settings file "/home/ozi/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:19.070970 main     VirtualBox: object deletion starts
+00:00:19.071125 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/ozi/VirtualBox VMs/ubuntu/ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:19.072813 main     HostDnsMonitor: shutting down ...
+00:00:19.084181 main     HostDnsMonitor: shut down
+00:00:19.239239 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:24.090940 main     {00007f484c018a00} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:24.091329 main     VirtualBox: object deleted

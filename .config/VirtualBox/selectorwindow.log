@@ -1,0 +1,19 @@
+00:00:00.655490 VirtualBox GUI VM Selector Window 6.1.32 r149290 linux.amd64 (Feb 10 2022 14:02:19) release log
+00:00:00.655493 Log opened 2022-03-20T21:42:46.496546000Z
+00:00:00.655494 Build Type: release
+00:00:00.655497 OS Product: Linux
+00:00:00.655498 OS Release: 5.16.15-arch1-1
+00:00:00.655499 OS Version: #1 SMP PREEMPT Thu, 17 Mar 2022 00:30:09 +0000
+00:00:00.655540 DMI Product Name: 20F5S4BX1C
+00:00:00.655548 DMI Product Version: ThinkPad X260
+00:00:00.655554 Firmware type: UEFI
+00:00:00.656069 Secure Boot: Disabled
+00:00:00.656122 Host RAM: 7805MB (7.6GB) total, 5942MB (5.8GB) available
+00:00:00.656126 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.656126 Process ID: 36087
+00:00:00.656127 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.656196 Qt version: 5.15.3
+00:00:00.698133 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.687388 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 25x47 x 1868x1006
+00:00:01.712149 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:17.174599 GUI: UIMediumEnumerator: Medium-enumeration finished!

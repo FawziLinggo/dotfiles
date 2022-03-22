@@ -1,0 +1,6 @@
+2022/02/27-10:51:12.617 4bdb Creating DB /home/ozi/.config/chromium/Default/IndexedDB/https_qiita.com_0.indexeddb.leveldb since it was missing.
+2022/02/27-10:51:12.621 4bdb Reusing MANIFEST /home/ozi/.config/chromium/Default/IndexedDB/https_qiita.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/27-10:52:34.592 4bdb Level-0 table #5: started
+2022/02/27-10:52:34.595 4bdb Level-0 table #5: 3468 bytes OK
+2022/02/27-10:52:34.599 4bdb Delete type=0 #3
+2022/02/27-10:52:34.599 4bdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
